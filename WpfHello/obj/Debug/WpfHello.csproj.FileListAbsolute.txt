@@ -14,3 +14,5 @@ C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\WpfHello\obj\Debug\WpfHello
 C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\WpfHello\obj\Debug\WpfHello.csproj.CoreCompileInputs.cache
 C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\WpfHello\obj\Debug\WpfHello.exe
 C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\WpfHello\obj\Debug\WpfHello.pdb
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\WpfHello\obj\Debug\MyMessage.g.cs
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\WpfHello\obj\Debug\MyMessage.baml

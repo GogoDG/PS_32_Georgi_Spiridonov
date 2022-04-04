@@ -1,0 +1,17 @@
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\bin\Debug\EasyMVVM.exe.config
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\bin\Debug\EasyMVVM.exe
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\bin\Debug\EasyMVVM.pdb
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM.csproj.AssemblyReference.cache
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\App.g.cs
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.cache
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.lref
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\MainWindow.baml
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM.g.resources
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM.Properties.Resources.resources
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM.csproj.GenerateResource.cache
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM.csproj.CoreCompileInputs.cache
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM.exe
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\EasyMVVM\obj\Debug\EasyMVVM.pdb

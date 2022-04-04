@@ -19,9 +19,10 @@ namespace StudentInfoSystem
         public int course { get; set; }
         public int stream { get; set; }
         public int group { get; set; }
+        public string password { get; set; }
 
         public Student(string firstName, string middleName, string lastName, string faculty, string specialty, string educationDegree, 
-            string status, string facNumber, int course, int stream, int group)
+            string status, string facNumber, int course, int stream, int group, string password)
         {
             this.firstName = firstName;
             this.middleName = middleName;
@@ -34,6 +35,7 @@ namespace StudentInfoSystem
             this.course = course;
             this.stream = stream;
             this.group = group;
+            this.password = password;
         }
     }
 }

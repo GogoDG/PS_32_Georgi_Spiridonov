@@ -16,6 +16,13 @@
         <TextBox x:Name="txtName2" Height="22" Margin="280,192,400,0" TextWrapping="Wrap" VerticalAlignment="Top" Panel.ZIndex="1"/>
         <Label x:Name="lblName3" Content="Name:" HorizontalAlignment="Left" Height="23" Margin="198,220,0,0" VerticalAlignment="Top" Width="49" FontWeight="Bold" Panel.ZIndex="1"/>
         <TextBox x:Name="txtName3" Height="23" Margin="280,221,400,0" TextWrapping="Wrap" VerticalAlignment="Top" Panel.ZIndex="1"/>
+        <ListBox x:Name="peopleListBox" HorizontalAlignment="Left" Height="216" Margin="466,98,0,0" VerticalAlignment="Top" Width="180" d:ItemsSource="{d:SampleData ItemCount=5}">
+            <ListBoxItem Content="Rose"/>
+            <ListBoxItem Content="Leon"/>
+            <ListBoxItem Content="Mary"/>
+            <ListBoxItem Content="Jesse"/>
+        </ListBox>
+        <Button Content="List It" HorizontalAlignment="Left" Height="23" Margin="466,319,0,0" VerticalAlignment="Top" Width="80" FontWeight="Bold" Click="Button_Click"/>
 
     </Grid>
 </Window>

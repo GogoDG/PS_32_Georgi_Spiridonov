@@ -58,7 +58,7 @@ namespace StudentInfoSystem
             textGroup.IsEnabled = false;
         }
 
-        void EnableTextBoxes()
+        public void EnableTextBoxes()
         {
             textFirstName.IsEnabled = true;
             textMidName.IsEnabled = true;
@@ -133,6 +133,17 @@ namespace StudentInfoSystem
                 count = 0;
                 ClearAllText();
             }
+        }
+
+        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        {
+            LoginWindow loginWindow = new LoginWindow()
+            {
+                Height = this.Height,
+                Width = this.Width
+            };
+            loginWindow.Show();
+            this.Close();
         }
     }
 }
