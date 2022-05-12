@@ -8,3 +8,8 @@ C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\UserLogin\obj\Debug\UserLog
 C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\UserLogin\obj\Debug\UserLogin.pdb
 C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\UserLogin\bin\Debug\test.txt
 C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\UserLogin\bin\Debug\log.txt
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\UserLogin\bin\Debug\EntityFramework.dll
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\UserLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\UserLogin\bin\Debug\EntityFramework.xml
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\UserLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GogoDG\source\repos\PS_32_Georgi_Spiridonov\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
