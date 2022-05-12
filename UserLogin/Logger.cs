@@ -10,6 +10,7 @@ namespace UserLogin
     public static class Logger
     {
         private static List<string> currentSessionActivities = new List<string>();
+        private static LogsContext logsContext = new LogsContext();
 
         static public void LogActivity(string activity)
         {
@@ -20,6 +21,9 @@ namespace UserLogin
             {
                 File.WriteAllText("test.txt", activityLine);
             }
+
+            logsContext.Logs.Add(new Logs(LoginValidation.currentUserUsername, activity));
+            logsContext.SaveChanges();
         }
 
         static public void LogActivity(string activity, int errorCode)
@@ -31,6 +35,9 @@ namespace UserLogin
             {
                 File.WriteAllText("log.txt", activityLine);
             }
+
+            logsContext.Logs.Add(new Logs(LoginValidation.currentUserUsername, activity));
+            logsContext.SaveChanges();
         }
 
         static public IEnumerable<string> getCurrentSessionActivities(string filter)
