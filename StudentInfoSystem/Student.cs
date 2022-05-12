@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudentInfoSystem
 {
-    internal class Student
+    public class Student
     {
         public string firstName { get; set; }
         public string middleName { get; set; }
@@ -20,6 +20,7 @@ namespace StudentInfoSystem
         public int stream { get; set; }
         public int group { get; set; }
         public string password { get; set; }
+        public int studentId { get; set; }
 
         public Student(string firstName, string middleName, string lastName, string faculty, string specialty, string educationDegree, 
             string status, string facNumber, int course, int stream, int group, string password)
